@@ -12,3 +12,15 @@
 ```
 #pip3 install qqbot
 ```
+
+##### 1.2 QQBot启动
+
+```
+#qqbot
+```
+
+##### 1.3 QQBot基本操作
+
+详细见[项目地址](https://github.com/pandolia/qqbot)
+
+#### 二、
